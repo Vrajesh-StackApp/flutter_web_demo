@@ -9,6 +9,8 @@ class AppTheme{
 
   // f7941d
   static const Color colorPrimary = Color(0xFF1E1E2C);
+  static const Color colorWhite = Colors.white54;
+  static const Color iconColor = Colors.white54;
 
   static const String fontName = 'Poppins';
 
